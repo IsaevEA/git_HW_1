@@ -20,5 +20,6 @@ public class Main {
                 System.out.println("ваше число меньше чем мое");
             }
         }
+        System.out.println("как то так?");
     }
 }
